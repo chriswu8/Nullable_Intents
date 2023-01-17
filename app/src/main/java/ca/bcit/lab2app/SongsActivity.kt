@@ -14,7 +14,6 @@ class SongsActivity : AppCompatActivity()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_songs)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-//        onSupportNavigateUp()
 
         // data is a string
         val data = intent?.getStringArrayExtra(EXTRA_DATA1)
