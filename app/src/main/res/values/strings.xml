@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab2_cwu</string>
+    <string name="textView_main">Colors and Songs by Chris Wu</string>
+    <string name="songs1Button_main">Songs 1</string>
+    <string name="songs2Button_main">Songs 2</string>
+    <string-array name="songs2">
+        <item>Stronger</item>
+        <item>Welcome to the Jungle</item>
+        <item>Thriller</item>
+        <item>Sandstorm</item>
+        <item>So many song\'s</item>
+    </string-array>
+
+
+</resources>
